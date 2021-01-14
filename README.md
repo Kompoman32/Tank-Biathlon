@@ -1,0 +1,1 @@
+This is source code of kompoman32.github.io, written with ReactJS and Redux.
